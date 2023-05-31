@@ -1,4 +1,4 @@
 # Draft Proposal
 
-- *Author:* Snigdha Chigurupati
-- *Term:* Summer 2023
+- **Author:** Snigdha Chigurupati
+- **Term:** Summer 2023
