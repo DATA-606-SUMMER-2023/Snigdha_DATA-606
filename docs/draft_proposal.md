@@ -38,3 +38,5 @@ What kinds of techniques/models do you plan to use (for example, clustering, NLP
 How you evaluate/compare the performance of the models?
 What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)?
 How do you deploy the trained model for use (example: using Streamlit, Dash, Flask, Solara, etc. to develop a web app or dashboard)
+
+# References
