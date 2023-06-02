@@ -1,4 +1,5 @@
-# Draft Proposal
+# Data 606: Capstone project proposal
 
-- **Author:** Snigdha Chigurupati
-- **Term:** Summer 2023
+# Building a Recommendation System through the IMDB movie ratings
+
+## Project Overview
