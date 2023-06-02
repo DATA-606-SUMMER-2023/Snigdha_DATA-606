@@ -1,3 +1,5 @@
+# Snigdha Chigurupati
+
 # Data 606: Capstone project proposal
 
 # Building a Recommendation System through the IMDB movie ratings
@@ -24,3 +26,15 @@ Features:
 - directors_id - ID of Directors who have worked on the movie
 
 Dataset link: https://www.kaggle.com/datasets/ashishjangra27/imdb-movies-dataset
+
+## Research Interests
+What is your issue of interest (provide sufficient background information)?
+Why is this issue important to you and/or to others?
+What questions do you have in mind and would like to answer?
+Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?
+What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you have in the datasets for analysis?
+What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)?
+What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
+How you evaluate/compare the performance of the models?
+What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)?
+How do you deploy the trained model for use (example: using Streamlit, Dash, Flask, Solara, etc. to develop a web app or dashboard)
