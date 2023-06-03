@@ -67,6 +67,8 @@ name, year, rating, certificate, duration, genre, votes, gross_income, directors
 - Model Deployment(possible): Streamlit, Heroku, Flask
 
 ## Preliminary Analysis
-
+- No missing values and duplicates in the dataset
+- Top genres were Game-shows, Sports, Music
+- 
 
 ## References
