@@ -41,7 +41,7 @@ To understand the choice of the users and develop an accurate and effective reco
 ### Importance of the Issue:
 This issue is important to both users and the movie industry. For users, the overwhelming number of movie choices makes it challenging to find movies that align with their tastes. A recommendation system helps users overcome this challenge by providing personalized recommendations, saving time and improving their overall movie-watching satisfaction. For the movie industry, a well-designed recommendation system can drive user engagement, increase movie discovery, and boost revenue through increased movie rentals, sales, or subscriptions.
 
-### Questions to be Answered:
+### Questions to be answered:
 - How to effectively capture and represent user preferences and movie characteristics to make accurate recommendations?
 - Does cluserting techniques produce significant results?
 - Which recommendation algorithms or models perform best on the IMDb movie ratings dataset, and how can their performance be evaluated?
@@ -52,15 +52,18 @@ This issue is important to both users and the movie industry. For users, the ove
 - How can we measure the effectiveness of the recommendation system using appropriate evaluation metrics?
 
 ### Project Implementation and Preliminary Analysis
-- Features to be used: name, year, rating, certificate, duration, genre, votes, gross_income, directors_name, stars_name, description
-- Implementation:
-- - Exploratory data analysis
-- - Data Cleaning: Removing the non-alphanumeric characters, converting the data into lowercase, Imputing the missing values
-- - Feature selection
-- - Data pre-processing: Vectorization, Clustering
-- - Recommendation techniques/ Model training(possible): Collaborative filtering, Content-based filtering, Hybrid approaches
-- - Model Evaluation: RMSE, F1-score, accuracy, Precision, Recall
-- - Hyperparameter tuning(possible): GridSearch, Cross validation
-- - Model Deployment(possible): Streamlit, Heroku, Flask
+
+#### Features to be used: 
+name, year, rating, certificate, duration, genre, votes, gross_income, directors_name, stars_name, description
+
+#### Implementation:
+- Exploratory data analysis
+- Data Cleaning: Removing the non-alphanumeric characters, converting the data into lowercase, Imputing the missing values
+- Feature selection
+- Data pre-processing: Vectorization, Clustering
+- Recommendation techniques/ Model training(possible): Collaborative filtering, Content-based filtering, Hybrid approaches
+- Model Evaluation: RMSE, F1-score, accuracy, Precision, Recall
+- Hyperparameter tuning(possible): GridSearch, Cross validation
+- Model Deployment(possible): Streamlit, Heroku, Flask
 
 ## References
