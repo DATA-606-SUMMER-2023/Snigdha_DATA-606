@@ -13,7 +13,7 @@ This project aims to develop a recommender system using the IMDb movie dataset f
 ## Dataset
 This dataset from kaggle created by Ashish Jangra, is having the data of size, 661 MB.
 
-Total observations: 1046832
+Total observations: 2590932
 
 Features:
 - id - Movie ID
