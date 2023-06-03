@@ -51,7 +51,7 @@ This issue is important to both users and the movie industry. For users, the ove
 - What is the impact of different recommendation strategies (e.g., collaborative filtering, content-based filtering) on the accuracy and user satisfaction of the system?
 - How can we measure the effectiveness of the recommendation system using appropriate evaluation metrics?
 
-### Project Implementation and Preliminary Analysis
+### Project Implementation
 
 #### Features to be used: 
 name, year, rating, certificate, duration, genre, votes, gross_income, directors_name, stars_name, description
@@ -65,5 +65,8 @@ name, year, rating, certificate, duration, genre, votes, gross_income, directors
 - Model Evaluation: RMSE, F1-score, accuracy, Precision, Recall
 - Hyperparameter tuning(possible): GridSearch, Cross validation
 - Model Deployment(possible): Streamlit, Heroku, Flask
+
+## Preliminary Analysis
+
 
 ## References
