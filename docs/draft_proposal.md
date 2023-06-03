@@ -51,7 +51,7 @@ This issue is important to both users and the movie industry. For users, the ove
 - g. What is the impact of different recommendation strategies (e.g., collaborative filtering, content-based filtering) on the accuracy and user satisfaction of the system?
 - h. How can we measure the effectiveness of the recommendation system using appropriate evaluation metrics?
 
-## Project Implementation and Preliminary Analysis
+### Project Implementation and Preliminary Analysis
 - Features to be used: name, year, rating, certificate, duration, genre, votes, gross_income, directors_name, stars_name, description
 - Implementation:
 - - Exploratory data analysis
