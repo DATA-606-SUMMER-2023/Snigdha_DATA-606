@@ -42,14 +42,14 @@ To understand the choice of the users and develop an accurate and effective reco
 This issue is important to both users and the movie industry. For users, the overwhelming number of movie choices makes it challenging to find movies that align with their tastes. A recommendation system helps users overcome this challenge by providing personalized recommendations, saving time and improving their overall movie-watching satisfaction. For the movie industry, a well-designed recommendation system can drive user engagement, increase movie discovery, and boost revenue through increased movie rentals, sales, or subscriptions.
 
 ### Questions to be Answered:
-- a. How to effectively capture and represent user preferences and movie characteristics to make accurate recommendations?
-- b. Does cluserting techniques produce significant results?
-- c. Which recommendation algorithms or models perform best on the IMDb movie ratings dataset, and how can their performance be evaluated?
-- d. How to perform effective feature selection to incorporate factors such as movie genres, actors, directors, or release dates to enhance the relevance and diversity of recommendations?
-- e. Is there a scope to build a prominent unsupervised model?
-- f. How to handle the cold-start problem, where new users or movies have limited data available for recommendations?
-- g. What is the impact of different recommendation strategies (e.g., collaborative filtering, content-based filtering) on the accuracy and user satisfaction of the system?
-- h. How can we measure the effectiveness of the recommendation system using appropriate evaluation metrics?
+- How to effectively capture and represent user preferences and movie characteristics to make accurate recommendations?
+- Does cluserting techniques produce significant results?
+- Which recommendation algorithms or models perform best on the IMDb movie ratings dataset, and how can their performance be evaluated?
+- How to perform effective feature selection to incorporate factors such as movie genres, actors, directors, or release dates to enhance the relevance and diversity of recommendations?
+- Is there a scope to build a prominent unsupervised model?
+- How to handle the cold-start problem, where new users or movies have limited data available for recommendations?
+- What is the impact of different recommendation strategies (e.g., collaborative filtering, content-based filtering) on the accuracy and user satisfaction of the system?
+- How can we measure the effectiveness of the recommendation system using appropriate evaluation metrics?
 
 ### Project Implementation and Preliminary Analysis
 - Features to be used: name, year, rating, certificate, duration, genre, votes, gross_income, directors_name, stars_name, description
