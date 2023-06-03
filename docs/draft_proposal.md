@@ -11,7 +11,9 @@ A recommender system is an algorithmic approach to provide personalized recommen
 This project aims to develop a recommender system using the IMDb movie dataset from Kaggle. The recommender system will provide personalized movie recommendations to users, helping them discover relevant movies based on their preferences and the rich information available in the dataset.
 
 ## Dataset
-This dataset is having the data of 2.5 Million Movies/series listed on the official website of IMDB
+This dataset from kaggle created by Ashish Jangra, is having the data of size, 661 MB which is listed on the official website of IMDB.
+
+Total observations: 1046832
 
 Features:
 - id - Movie ID
@@ -24,19 +26,43 @@ Features:
 - votes - Number of people who voted for the IMDB rating
 - gross_income - Gross Income of the Movie
 - directors_id - ID of Directors who have worked on the movie
+- directors_name - Name of the movie director
+- stars_id - Star ID
+- stars_name - Name of the stars in the movie
+- description - Movie description
+
+Unit of Analysis: Movies(IMDB ratings, votes, genre, stars, director, description)
 
 Dataset link: https://www.kaggle.com/datasets/ashishjangra27/imdb-movies-dataset
 
 ## Research Interests
-What is your issue of interest (provide sufficient background information)?
-Why is this issue important to you and/or to others?
-What questions do you have in mind and would like to answer?
-Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?
-What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you have in the datasets for analysis?
-What variables/measures do you plan to use in your analysis (variables should be tied to the questions in #3)?
-What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
-How you evaluate/compare the performance of the models?
+To understand the choice of the users and develop an accurate and effective recommendation system that suggests relevant movies to users based on their preferences and historical movie ratings. The system aims to enhance the movie-watching experience by reducing information overload and assisting users in discovering movies they are likely to enjoy.
+
+- Importance of the Issue:
+This issue is important to both users and the movie industry. For users, the overwhelming number of movie choices makes it challenging to find movies that align with their tastes. A recommendation system helps users overcome this challenge by providing personalized recommendations, saving time and improving their overall movie-watching satisfaction. For the movie industry, a well-designed recommendation system can drive user engagement, increase movie discovery, and boost revenue through increased movie rentals, sales, or subscriptions.
+
+- Questions to be Answered:
+a. How to effectively capture and represent user preferences and movie characteristics to make accurate recommendations?
+b. Does cluserting techniques produce significant results?
+c. Which recommendation algorithms or models perform best on the IMDb movie ratings dataset, and how can their performance be evaluated?
+d. How to perform effective feature selection to incorporate factors such as movie genres, actors, directors, or release dates to enhance the relevance and diversity of recommendations?
+e. Is there a scope to build a prominent unsupervised model?
+f. How to handle the cold-start problem, where new users or movies have limited data available for recommendations?
+g. What is the impact of different recommendation strategies (e.g., collaborative filtering, content-based filtering) on the accuracy and user satisfaction of the system?
+h. How can we measure the effectiveness of the recommendation system using appropriate evaluation metrics?
+
+## Project Implementation and Preliminary Analysis
+
 What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)?
 How do you deploy the trained model for use (example: using Streamlit, Dash, Flask, Solara, etc. to develop a web app or dashboard)
+- Features to be used: name, year, rating, certificate, duration, genre, votes, gross_income, directors_name, stars_name, description
+- Implementation:
+- - Exploratory data analysis
+- - Data Cleaning: Removing the non-alphanumeric characters, converting the data into lowercase
+- - Feature selection
+- - Data pre-processing: Vectorization, Clustering
+- - Recommendation techniques/ Model training(possible): Collaborative filtering, Content-based filtering, Hybrid approaches
+- - Model Evaluation: RMSE, F1-score, accuracy, Precision, Recall
 
-# References
+## 
+## References
