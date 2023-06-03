@@ -11,7 +11,7 @@ A recommender system is an algorithmic approach to provide personalized recommen
 This project aims to develop a recommender system using the IMDb movie dataset from Kaggle. The recommender system will provide personalized movie recommendations to users, helping them discover relevant movies based on their preferences and the rich information available in the dataset.
 
 ## Dataset
-This dataset from kaggle created by Ashish Jangra, is having the data of size, 661 MB which is listed on the official website of IMDB.
+This dataset from kaggle created by Ashish Jangra, is having the data of size, 661 MB.
 
 Total observations: 1046832
 
