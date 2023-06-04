@@ -1,2 +1,3 @@
+# Snigdha Chigurupati
 - **Author:** Snigdha Chigurupati
 - **Term:** Summer 2023
