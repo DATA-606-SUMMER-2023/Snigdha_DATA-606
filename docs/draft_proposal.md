@@ -74,6 +74,6 @@ name, year, rating, certificate, duration, genre, votes, gross_income, directors
 
 ## References
 ##### nvidia: Recommendation System
-- https://www.nvidia.com/en-us/glossary/data-science/recommendation-system/#:~:text=A%20recommendation%20system%20(or%20recommender,exponentially%20growing%20number%20of%20options.
+##### https://www.nvidia.com/en-us/glossary/data-science/recommendation-system/#:~:text=A%20recommendation%20system%20(or%20recommender,exponentially%20growing%20number%20of%20options.
 ##### Vatsal(Jul 12, 2021): Recommendation Systems Explained
-- https://towardsdatascience.com/recommendation-systems-explained-a42fc60591ed
+##### https://towardsdatascience.com/recommendation-systems-explained-a42fc60591ed
