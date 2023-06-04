@@ -68,7 +68,12 @@ name, year, rating, certificate, duration, genre, votes, gross_income, directors
 
 ## Preliminary Analysis
 - No missing values and duplicates in the dataset
+- There are many insignificant synthetic values in the dataset and these are substituted for missing values.
 - Top genres were Game-shows, Sports, Music
-- 
+- Most of the movies have the rating between 6.8 and 7.8
 
 ## References
+- nvidia: Recommendation System
+- https://www.nvidia.com/en-us/glossary/data-science/recommendation-system/#:~:text=A%20recommendation%20system%20(or%20recommender,exponentially%20growing%20number%20of%20options.
+- Vatsal(Jul 12, 2021): Recommendation Systems Explained
+- https://towardsdatascience.com/recommendation-systems-explained-a42fc60591ed
