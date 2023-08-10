@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Content-Based Movie Recommender</title>
+</head>
+<body>
+    <h1>Content-Based Movie Recommender</h1>
+    <form method="POST">
+        <input type="text" name="user_input" placeholder="Enter a movie description">
+        <button type="submit">Submit</button>
+    </form>
+    {% if user_input %}
+    <h2>Top similar movies based on your input: {{ user_input }}</h2>
+    <ul>
+        {% for movie in similar_movies.iterrows() %}
+        <li>{{ movie[1]['name'] }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>
