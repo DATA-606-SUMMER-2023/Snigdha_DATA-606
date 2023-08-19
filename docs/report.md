@@ -2,52 +2,44 @@ YOUTUBE VIDEO
 PPT FILE
 GITHUB REPO
 
-Enhancing Movie Recommendations with BERT Embeddings and Cosine Similarity
+#**Enhancing Movie Recommendations with BERT Embeddings and Cosine Similarity**
+
+**Snigdha Chigurupati**
+**Summer 2023**
+**DATA 606 – Capstone project**
+**Dr. Chaojie Wang**
+**August 19th, 2023**
 
 
-Snigdha Chigurupati
-Summer 2023
-DATA 606 – Capstone project
-Dr. Chaojie Wang
-August 18th, 2023
-
-
-ABSTRACT
+###**ABSTRACT**
 This research develops a movie recommender system using natural language processing and neural networks. The IMDb movie dataset containing metadata for over 100 movies is utilized. Text preprocessing and BERT embeddings represent movie descriptions in high-dimensional semantic space. Cosine similarity identifies movies most aligned to user inputs. A content-based filtering pipeline provides personalized recommendations. Results demonstrate high accuracy in predicting user preferences. This work illustrates the value of BERT and cosine similarity for enhancing recommendations through a deep understanding of textual content. Potential impacts span improved consumer experience, business growth, research opportunities, and competitive edge.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-INTRODUCTION
+###**INTRODUCTION**
 Recommender systems aim to predict user preferences and suggest relevant items. For movie platforms, an accurate and enjoyable recommendation system is key to user satisfaction. This work implements a movie recommendation engine using natural language processing (NLP) and neural networks.
+
 Specifically, BERT (Bidirectional Encoder Representations from Transformers) has been implemented to encode semantic representations of movie descriptions. BERT is a pre-trained model that generates embedding vectors encapsulating contextual meaning. Cosine similarity is then utilized to find movies most aligned to a user's textual input based on vector orientation.
+
 This content-based approach focuses directly on modeling item descriptions to match user interests. The system aims to enhance discovery by understanding nuances in movie content. Personalized suggestions help consumers identify relevant titles in a vast option space. For movie platforms, improved recommendations can transform the user experience, foster engagement, and support growth.
-IMPORTANCE OF MOVIE RECOMMENDER SYSTEMS
+
+###**IMPORTANCE OF MOVIE RECOMMENDER SYSTEMS**
 Movie recommender systems have become immensely valuable in the modern age of endless content options. With thousands of movies across genres, release years, and languages, it is impossible for viewers to manually locate films optimally suited to their interests. Recommenders address this problem by automatically suggesting relevant titles based on user preferences and movie attributes. They help consumers efficiently discover engaging films without exhaustive searching or uncertainty.
+
 For movie platforms, a high-quality recommendation engine is imperative for user retention and satisfaction. By learning individual interests, personalized suggestions could be improved which could enhance the viewing experience, keep users engaged, and drive membership renewals. Companies like Netflix attribute over 80% of watched content to their recommender algorithms. This allows precisely targeted marketing as well. Recommendations also promote the discovery of more obscure selections, encouraging exploration and serendipitous movie-finding moments.
+
 Technically, movie recommenders must analyze diverse movie metadata like descriptions, genres, and creators, and interactively learn viewer interests. Advances in artificial intelligence and deep learning are enabling more sophisticated recommendations through a deeper understanding of narrative nuances. For instance, contextual embedding techniques like BERT interpret meaning within plot synopses for fine-grained matching.
+
 Overall, intelligent movie recommendation systems fundamentally transform how viewers locate relevant titles amidst exploding catalogs. They enhance satisfaction and enjoyment while supporting business objectives of engagement and revenue. Ongoing innovation in recommendation techniques, especially involving deep neural networks, is essential for platforms to understand users and stand out competitively. As movies become more central across entertainment mediums, recommenders will only increase in necessity and capabilities.[1][2]
-ABOUT THE DATA
+
+###**ABOUT THE DATA**
 The IMDb Movies Dataset from Kaggle, containing data on 20M+ movies has been selected. Relevant features include title, genre, description, director, stars, and metadata like release year and duration. The dataset was preprocessed by removing invalid rows, dropping duplicate values, and stripping whitespace from text columns.
-METHODOLOGY
+
+###**METHODOLOGY**
 The movie recommendation system pipeline comprises several key steps:
-Data Cleaning and Preprocessing
+*Data Cleaning and Preprocessing*
 The raw data extracted from the IMDb dataset first undergoes preprocessing to prepare the textual fields. Lowercasing and lemmatization normalize the text by converting all characters to lowercase and reducing words to their root form. Stopwords like 'the', 'a', etc. are removed to filter out non-informative frequent terms. Punctuation stripping eliminates non-alphabetic characters. Furthermore, any records containing substantial missing values across critical columns like movie title and description are dropped, ensuring only meaningful samples are retained. This standardized data provides the foundation for subsequent analysis.[3][4]
-Exploratory Data Analysis
+*Exploratory Data Analysis*
 Before applying the recommendation techniques, an initial exploratory analysis is conducted to understand the general characteristics of the movie data. Visualizations including histograms and bar charts examine the distribution of key attributes like user ratings and genres. This provides useful insights like the spread of ratings and the most frequent genres. EDA enables verifying data integrity, checking for anomalies, and summarizing overall patterns. Word cloud has been created to understand the most common word and phrases in the movie descriptions.
-Text Encoding with BERT
+*Text Encoding with BERT*
 A pretrained BERT model is leveraged to encode the plot descriptions into informative embedding vectors encapsulating semantic meaning. Specifically, the BERT tokenizer parses the description text into tokens which are inputted into the standard BERT architecture. This generates a 512-dimensional vector numerically representing the contextual relationships between words and concepts within the description. Unlike classical bag-of-words models, BERT's bidirectional training and transformer mechanisms allow modeling nuanced semantics. The embeddings capture similarities between movie plots at a deeper level compared to surface features.[5]
 User Query Encoding
 To generate recommendations, the system first encodes the user's textual query using the same trained BERT model. Their natural language input is processed by the BERT tokenizer and model to output a 512-dim vector representation analogous to the movie descriptions. This allows aligned vector spaces between the user input text and movie text for comparison.
