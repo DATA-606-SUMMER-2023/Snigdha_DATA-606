@@ -17,7 +17,7 @@ DATA 606 -- Capstone project
 
 Dr. Chaojie Wang
 
-August 18^th^, 2023
+August 18th, 2023
 
 ABSTRACT
 ========
