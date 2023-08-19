@@ -2,7 +2,7 @@ YOUTUBE VIDEO
 PPT FILE
 GITHUB REPO
 
-**#Enhancing Movie Recommendations with BERT Embeddings and Cosine Similarity**
+**Enhancing Movie Recommendations with BERT Embeddings and Cosine Similarity**/n
 
 **Snigdha Chigurupati**
 **Summer 2023**
