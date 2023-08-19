@@ -6,8 +6,8 @@ FILE**](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/blob/main/docs/C
 [**GITHUB
 REPO**](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606)
 
-**Enhancing Movie Recommendations with BERT Embeddings and Cosine
-Similarity**
+**ENHANCING MOVIE RECOMMENDATIONS WITH BERT EMBEDDINGS AND COSINE SIMILARITY**
+================================================================================
 
 Snigdha Chigurupati
 
