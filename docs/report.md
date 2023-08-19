@@ -191,7 +191,8 @@ recommendations.[^\[7\]^](https://www.digitalocean.com/community/tutorials/how-t
 RESULTS AND DISCUSSION
 ======================
 
-###Data pre-processing:
+[Data pre-processing:]{.underline}
+
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/31ed00e6-c6e2-427b-b434-8c5322fe378e)
 
 
