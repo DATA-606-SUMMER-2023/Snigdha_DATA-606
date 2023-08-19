@@ -196,9 +196,6 @@ RESULTS AND DISCUSSION
 generated](media/image1.png){width="6.5in"
 height="3.2284722222222224in"}
 
-![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/b8495a54-3246-4d24-9178-cc5bd139c733)
-
-
 ![A screen shot of a computer code Description automatically
 generated](media/image2.png){width="6.5in" height="4.093055555555556in"}
 
