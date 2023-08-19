@@ -191,27 +191,6 @@ recommendations.[^\[7\]^](https://www.digitalocean.com/community/tutorials/how-t
 RESULTS AND DISCUSSION
 ======================
 
-[Data pre-processing:]{.underline}\
-![A screenshot of a computer code Description automatically
-generated](media/image1.png){width="6.5in"
-height="3.2284722222222224in"}
-
-![A screen shot of a computer code Description automatically
-generated](media/image2.png){width="6.5in" height="4.093055555555556in"}
-
-[EDA:]{.underline}
-
-![A screen shot of a graph Description automatically
-generated](media/image3.png){width="4.217391732283464in"
-height="4.217391732283464in"}
-
-![A graph with colorful bars Description automatically generated with
-medium confidence](media/image4.png){width="6.5in"
-height="5.761111111111111in"}
-
-![A close up of words Description automatically
-generated](media/image5.png){width="6.5in" height="3.25in"}
-
 Prescriptive analysis:
 
 1.  It is observed that most films were rated between 6 and 8.
@@ -221,26 +200,9 @@ Prescriptive analysis:
 3.  The most popular words in the movie descriptions were 'world',
     'help', 'team', 'game' etc
 
-[Text encoding with BERT:]{.underline}
+After developing the 
+![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/868393f6-dec3-4b6a-9955-1345377080b6)
 
-![A screenshot of a computer program Description automatically
-generated](media/image6.png){width="6.5in" height="4.001388888888889in"}
-
-[User Query encoding and Cosine similarity calculation:]{.underline}
-
-![A screenshot of a computer program Description automatically
-generated](media/image7.png){width="6.5in" height="4.219444444444444in"}
-
-[Movie ranking and recommendation]{.underline}
-
-![A screenshot of a computer program Description automatically
-generated](media/image8.png){width="6.5in" height="2.933333333333333in"}
-
-[Deployment using Flask:]{.underline}
-
-![A screenshot of a computer Description automatically
-generated](media/image9.png){width="6.5in"
-height="3.6680555555555556in"}
 
 IMPACT
 ======
