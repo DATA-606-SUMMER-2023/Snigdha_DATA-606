@@ -191,14 +191,14 @@ recommendations.[^\[7\]^](https://www.digitalocean.com/community/tutorials/how-t
 RESULTS AND DISCUSSION
 ======================
 
-[Data pre-processing:]{.underline}\
+###Data pre-processing:
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/31ed00e6-c6e2-427b-b434-8c5322fe378e)
 
 
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/ddcad848-003e-4e67-bcdd-6ccd1e2f7b31)
 
 
-[EDA:]{.underline}\
+[EDA:]{.underline}
 
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/18233654-6579-486a-a375-4bf4ea8b6397)
 
@@ -236,35 +236,6 @@ Prescriptive analysis:
 [Deployment using Flask:]{.underline}
 
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/36ef5475-2e85-4dcd-9a76-7a491dca4afe)
-
-
-IMPACT
-======
-
-Intelligent recommendation systems stand to profoundly impact consumer
-experience, business growth, and research frontiers:
-
--   Personalized suggestions enhance satisfaction and loyalty by helping
-    consumers discover relevant content. BERT\'s contextual
-    understanding facilitates nuanced recommendations even for complex
-    movie narratives.
-
--   Increased engagement from tailored recommendations can boost revenue
-    and retain users. Services can optimize marketing spend by precisely
-    targeting likely interested users.
-
--   Advances in NLP like BERT create opportunities to innovatively apply
-    cutting-edge technology to recommendation tasks. Integrating
-    multimedia data could further mimic human understanding.
-
-Overall, this research demonstrates the potential for BERT and cosine
-similarity in a content-based recommendation system. bye transforming
-unstructured text into informative vectors, user preferences can be
-matched to items via semantic similarity. The techniques pave the path
-for more captivating and intelligent user experiences with wide-ranging
-benefits.[^\[8\]^](https://link.springer.com/chapter/10.1007/978-1-0716-2197-4_14)
-
-
 
 
 IMPACT
