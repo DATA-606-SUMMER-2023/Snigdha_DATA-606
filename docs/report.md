@@ -4,7 +4,7 @@ GITHUB REPO
 
 **Enhancing Movie Recommendations with BERT Embeddings and Cosine Similarity**
 
-**Snigdha Chigurupati**
+**Snigdha Chigurupati**/n
 **Summer 2023**
 **DATA 606 – Capstone project**
 **Dr. Chaojie Wang**
