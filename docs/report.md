@@ -191,7 +191,7 @@ recommendations.[^\[7\]^](https://www.digitalocean.com/community/tutorials/how-t
 RESULTS AND DISCUSSION
 ======================
 
-[Data pre-processing:]{.underline}
+*Data pre-processing:*
 
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/31ed00e6-c6e2-427b-b434-8c5322fe378e)
 
@@ -199,7 +199,7 @@ RESULTS AND DISCUSSION
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/ddcad848-003e-4e67-bcdd-6ccd1e2f7b31)
 
 
-[EDA:]{.underline}
+*EDA:*
 
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/18233654-6579-486a-a375-4bf4ea8b6397)
 
@@ -219,22 +219,22 @@ Prescriptive analysis:
 3.  The most popular words in the movie descriptions were 'world',
     'help', 'team', 'game' etc
 
-[Text encoding with BERT:]{.underline}
+*Text encoding with BERT:*
 
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/63e7c612-419d-43b3-89f6-e915b7bcf611)
 
 
-[User Query encoding and Cosine similarity calculation:]{.underline}
+*User Query encoding and Cosine similarity calculation:*
 
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/66d4f868-2a9b-496f-9c89-968dbabd0602)
 }
 
-[Movie ranking and recommendation]{.underline}
+*Movie ranking and recommendation:*
 
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/cd385be2-4cb9-48d9-9ea0-fd994f017e0b)
 
 
-[Deployment using Flask:]{.underline}
+*Deployment using Flask:*
 
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/36ef5475-2e85-4dcd-9a76-7a491dca4afe)
 
