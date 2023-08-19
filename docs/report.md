@@ -198,7 +198,7 @@ RESULTS AND DISCUSSION
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/ddcad848-003e-4e67-bcdd-6ccd1e2f7b31)
 
 
-[EDA:]{.underline}
+[EDA:]{.underline}\
 
 ![image](https://github.com/Snigdha-Chigurupati/Snigdha_DATA-606/assets/114623884/18233654-6579-486a-a375-4bf4ea8b6397)
 
